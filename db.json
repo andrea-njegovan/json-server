@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "Mobile networks",
+      "description": "Awesome stream about mobile networks ....",
+      "id": 25
+    },
+    {
+      "title": "My Stream",
+      "description": "I've created this one!",
+      "userId": "100185140084199667718",
+      "id": 27
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Let's see",
+      "userId": "100185140084199667718",
+      "id": 28
+    },
+    {
+      "title": "Refactoring",
+      "description": "Test refactoring 123 ...",
+      "id": 29
+    }
+  ]
+}
